@@ -12,3 +12,4 @@ This course gives an introduction to DevOps and SRE.
 - Lab 4: [Docker, Podman, and Kubernetes](lab4-docker-podman-kubernetes)
 - Lab 5: [Installing Terraform and OpenTofu](lab5-installing-terraform-opentofu)
 - Lab 6: [Setting Up Jenkins](lab6-jenkins-setup)
+- Lab 7: [Setting Up Prometheus and Grafana](lab7-prometheus-grafana)
