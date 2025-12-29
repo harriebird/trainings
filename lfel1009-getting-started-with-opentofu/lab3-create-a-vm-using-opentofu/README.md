@@ -1,3 +1,3 @@
 # lab3-create-a-vm-using-opentofu
 
-This Lab activity demonstrates how a OpenTofu is used to create a Virtual Machine in Azure.
+This Lab activity demonstrates how OpenTofu can be used to spawn a Virtual Machine in Azure.
