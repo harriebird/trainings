@@ -3,7 +3,7 @@
 This activity guides in setting up the development system for Linux Kernel Development.
 
 Using Fedora:
-sudo dnf group info "Development Tools" "C Development Tools and Libraries"
+sudo dnf group install c-development development-tools
 
 Suggest setup:
 Whole disk install with 3 GB boot partition

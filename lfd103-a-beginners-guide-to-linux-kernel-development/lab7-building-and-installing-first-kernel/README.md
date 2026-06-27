@@ -26,7 +26,7 @@ make -j$(nproc)
 sudo make modules_install install
 
 Compile and package to RPM:
-sudo dnf install dwarves perl
+sudo dnf install dwarves perl fedora-packager rpmdevtools
 make binrpm-pkg -j$(nproc) 
 Install using package manager
 
