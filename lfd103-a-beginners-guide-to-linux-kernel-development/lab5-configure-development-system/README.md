@@ -4,6 +4,7 @@ This activity guides in setting up the development system for Linux Kernel Devel
 
 Using Fedora:
 sudo dnf group install c-development development-tools
+sudo dnf install ncurses-devel
 
 Suggest setup:
 Whole disk install with 3 GB boot partition
